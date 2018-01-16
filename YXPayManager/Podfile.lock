@@ -1,0 +1,18 @@
+PODS:
+  - YXPaylibraryManager (1.0.12):
+    - YXPaylibraryManager/aliPay (= 1.0.12)
+    - YXPaylibraryManager/llPay (= 1.0.12)
+    - YXPaylibraryManager/weChat (= 1.0.12)
+  - YXPaylibraryManager/aliPay (1.0.12)
+  - YXPaylibraryManager/llPay (1.0.12)
+  - YXPaylibraryManager/weChat (1.0.12)
+
+DEPENDENCIES:
+  - YXPaylibraryManager
+
+SPEC CHECKSUMS:
+  YXPaylibraryManager: f6c93313243953e2fecd1770afe1850690fb2c33
+
+PODFILE CHECKSUM: fbe93e0068bb41e611c348775dfaa93c5fbbea8d
+
+COCOAPODS: 1.2.1
