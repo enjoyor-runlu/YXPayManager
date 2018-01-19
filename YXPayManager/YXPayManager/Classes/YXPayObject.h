@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "WXApi.h"
+#import <YXPaylibraryManager/WXApi.h>
 #import <AlipaySDK/AlipaySDK.h>
 #import "LLPaySdk.h"
 

@@ -87,7 +87,7 @@
         req.prepayId            = [dic objectForKey:@"prepayid"];
         req.nonceStr            = [dic objectForKey:@"noncestr"];
         req.timeStamp           = [[dic objectForKey:@"timestamp"] intValue];
-        req.package             = [dic objectForKey:@"packageKey"];
+        req.package             = [dic objectForKey:@"packages"];
         req.sign                = [dic objectForKey:@"sign"];
         
         BOOL flag= [WXApi sendReq:req];
