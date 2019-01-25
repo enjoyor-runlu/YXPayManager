@@ -10,7 +10,7 @@ target 'YXPayManager' do
 
   # Pods for YXPayManager
 
-    pod 'YXPaylibraryManager', '2.0.5'
+    pod 'YXPaylibraryManager'
 
 
 
