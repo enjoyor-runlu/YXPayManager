@@ -76,7 +76,7 @@
         if(![wxID isEqualToString:WXApiID])
         {
             wxID = WXApiID;
-            [WXApi registerApp:wxID withDescription:@"yixiang"];
+            [WXApi registerApp:wxID enableMTA:FALSE];
         }
         
         wxRebackSuccess = NO;
