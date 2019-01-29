@@ -4,5 +4,5 @@ source 'https://github.com/enjoyor-runlu/YiXiangSpec.git'
 platform :ios, '8.0'
 
 target 'YXPayManager' do
-   pod 'YXPaylibraryManager', '2.0.8'
+   pod 'YXPaylibraryManager', '2.0.9'
 end
