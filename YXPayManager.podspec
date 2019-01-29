@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'YXPayManager'
-  spec.version          = '1.0.4'
+  spec.version          = '1.0.5'
   spec.license          = { :type => 'MIT', :file => 'LICENSE' }
   spec.homepage         = 'https://github.com/enjoyor-runlu/YXPayManager'
   spec.author           = { '' => '' }
@@ -13,5 +13,5 @@ Pod::Spec.new do |spec|
 
   spec.frameworks = 'UIKit', 'Foundation'
 
-  spec.dependency 'YXPaylibraryManager'
+  spec.dependency 'YXPaylibraryManager', '2.0.9'
 end
