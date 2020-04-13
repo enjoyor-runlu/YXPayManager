@@ -13,5 +13,5 @@ Pod::Spec.new do |spec|
 
   spec.frameworks = 'UIKit', 'Foundation'
 
-  spec.dependency 'YXPaylibraryManager', '2.0.10'
+  spec.dependency 'YXPaylibraryManager', '2.1.0'
 end
